@@ -1,1 +1,14 @@
+git clone
+this command is used to get the repository 
 git status
+this command is used to give the status
+ git add.
+ this command is used to add all modifications that are pending
+git add filename
+this command is used to modify pendings in that filename
+ git commit -m "message"
+ this commit is used to commiting the changes into the repository
+ git push origin main 
+ this command is used to push the details
+ git pull origin main
+ this command is used to get the content from the filename
